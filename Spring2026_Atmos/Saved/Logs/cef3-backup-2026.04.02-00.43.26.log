@@ -1,0 +1,29 @@
+[24976:29576:0401/184244.097:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[24976:33476:0401/184244.182:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[24976:29576:0401/184244.191:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[24976:29576:0401/184246.715:WARNING:external_registry_loader_win.cc(232)] Error observing HKLM: 5
+[37424:11176:0401/184250.458:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-853FFA68636AD436CF3102825A4C3576 will be ignored
+[24976:21536:0401/184252.479:WARNING:browser_info.cc(345)] Returning a speculative frame for [7,9]
+[24976:29576:0401/184253.124:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[24976:29576:0401/184253.124:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[24976:29576:0401/184253.124:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[24976:29576:0401/184253.124:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[24976:21536:0401/184253.134:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[22888:18900:0401/184507.333:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[18176:14564:0401/194103.451:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame F-1C0AB58FBAD79E9F8ED787C3D058AF8B will be ignored
+[35448:37228:0401/194128.407:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 14-7720553A05E3A84C0768237FC06E9A0C will be ignored
+[29472:23488:0401/194131.424:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 15-53F9A7D7DBA4F962A78DECA979384AAC will be ignored
+[29472:23488:0401/194131.424:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 15-53F9A7D7DBA4F962A78DECA979384AAC will be ignored
+[10520:36124:0401/194131.432:WARNING:spdy_session.cc(2985)] Received HEADERS for invalid stream 3
+[22888:18900:0401/194131.434:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[22888:18900:0401/194131.436:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[22888:18900:0401/194131.437:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[22888:18900:0401/194131.438:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[22888:18900:0401/194131.440:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[22888:18900:0401/194131.440:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[22888:18900:0401/194131.440:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[22888:18900:0401/194131.440:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[22888:18900:0401/194131.440:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[22888:18900:0401/194131.441:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[22888:18900:0401/194131.441:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[24976:29576:0401/194326.298:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
