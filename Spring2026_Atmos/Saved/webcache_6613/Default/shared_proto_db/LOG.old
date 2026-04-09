@@ -1,2 +1,3 @@
-2026/04/01-18:42:46.725 46f0 Creating DB C:\Users\jessi\GitHub\MediaArtsSoftware\Spring2026_Atmos\Saved\webcache_6613\Default\shared_proto_db since it was missing.
-2026/04/01-18:42:46.728 46f0 Reusing MANIFEST C:\Users\jessi\GitHub\MediaArtsSoftware\Spring2026_Atmos\Saved\webcache_6613\Default\shared_proto_db/MANIFEST-000001
+2026/04/01-19:46:13.673 79ec Reusing MANIFEST C:\Users\jessi\GitHub\MediaArtsSoftware\Spring2026_Atmos\Saved\webcache_6613\Default\shared_proto_db/MANIFEST-000001
+2026/04/01-19:46:13.673 79ec Recovering log #3
+2026/04/01-19:46:13.673 79ec Reusing old log C:\Users\jessi\GitHub\MediaArtsSoftware\Spring2026_Atmos\Saved\webcache_6613\Default\shared_proto_db/000003.log 
